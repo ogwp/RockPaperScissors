@@ -27,7 +27,7 @@ button {
 }
 
 #subtitle {
-	color: white;
+	outline-color: white;
 	font-size: 1em;
 	text-align: center;
 	line-height: 15vh;
